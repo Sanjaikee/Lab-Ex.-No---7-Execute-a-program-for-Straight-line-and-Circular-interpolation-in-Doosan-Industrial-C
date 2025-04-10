@@ -1,4 +1,4 @@
-# Ex.-No---04-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-cobot
+# Ex.-No---05-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-cobot
 ## Aim : To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 ## Components Required:
 *Doosan Industrial Collaborative Robot
